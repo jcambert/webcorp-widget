@@ -6,7 +6,7 @@
     "Ambert Jean-Christophe <j.ambert@free.fr>"
   ],
   "description": "Webcorp Dashboard Widget",
-  "main": "dist/webcorp.widget.js",
+  "main": "dist/webcorp.widget.min.js",
    "devDependencies": {},
   "keywords": [
     "webcorp",

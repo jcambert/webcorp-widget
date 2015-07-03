@@ -1,8 +1,8 @@
 {
   "name": "webcorp-widget",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "WebCorp Dashboard Widget",
-  "homepage": "jc.ambert.free.fr",
+  "homepage": "http://jc.ambert.free.fr",
   "author": "Ambert Jean-Christophe <jc.ambert@free.fr>",
   "licence": "GPL",
   "keywords": [
